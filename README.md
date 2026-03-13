@@ -78,12 +78,10 @@ plt.tight_layout()
 plt.show()
 ```
 ## Output
-<img width="411" height="295" alt="Screenshot 2026-03-13 093342" src="https://github.com/user-attachments/assets/17ff8851-f456-474f-a015-1db2a38f0852" />
-<img width="426" height="289" alt="Screenshot 2026-03-13 093335" src="https://github.com/user-attachments/assets/75a615f1-1672-490d-8d61-7b7ace18a262" />
-<img width="377" height="240" alt="Screenshot 2026-03-13 093328" src="https://github.com/user-attachments/assets/42b65344-eceb-4e3e-9eaa-4cc1cd57f1fe" />
-<img width="437" height="286" alt="Screenshot 2026-03-13 093347" src="https://github.com/user-attachments/assets/3b159364-0745-4030-bb8e-33af9a746cad" />
-
-
+<img width="377" height="240" alt="Screenshot 2026-03-13 093328" src="https://github.com/user-attachments/assets/cc8284a1-93fe-486f-9249-e36a8d24b144" />
+<img width="426" height="289" alt="Screenshot 2026-03-13 093335" src="https://github.com/user-attachments/assets/a2898407-4631-49fc-8937-3291f29b08b8" />
+<img width="411" height="295" alt="Screenshot 2026-03-13 093342" src="https://github.com/user-attachments/assets/12f8519d-d938-42ae-b797-c8f14960c70b" />
+<img width="437" height="286" alt="Screenshot 2026-03-13 093347" src="https://github.com/user-attachments/assets/94c1ed5d-2fe1-4b3f-a8b4-4212e78b6532" />
 
 
 
